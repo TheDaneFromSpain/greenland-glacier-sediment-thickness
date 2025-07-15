@@ -6,7 +6,7 @@ This app pulls pre-processed (by me) geospatial data from a local database and v
 
 ![Shiny app preview](shiny-app.jpg)
 
-Removed all datasets except app-crucial GEBCO depth and GRADP thickness because of data confidentiality and excessive size. Restrictions caused:
+$${\color{red}Important:}$$ Removed all datasets except app-crucial GEBCO depth and GRADP thickness because of data confidentiality / excessive size. Consequences:
 - Can only select "depth" feature.
 - Can only select "GRADP, no sd" in training data dropdown.
 
